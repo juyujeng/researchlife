@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://juyujeng.github.io/researchlife'
 languageCode = 'zh-tw'
 title = "Ju' Research and Life"
 theme = 'PaperMod'
