@@ -1,4 +1,4 @@
-baseURL = 'https://juyujeng.github.io/researchlife'
+baseURL = 'https://juyujeng.github.io'
 languageCode = 'zh-tw'
 title = "Ju' Research and Life"
 theme = 'PaperMod'
