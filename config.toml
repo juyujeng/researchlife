@@ -1,0 +1,41 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-tw'
+title = "Ju' Research and Life"
+theme = 'PaperMod'
+
+[Params]
+  toc = true # Enable Table of Contents
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = true # Enable counter for each category in "Categories" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget
+
+
+  
+ [menu]
+ [[menu.main]]
+    identifier = 'home'
+    name = 'home'
+    url = '/'
+    weight = 10
+ [[menu.main]]
+    name = 'Blog'
+    url = '/blog/'
+    weight = 20
+ [[menu.main]]
+    name = 'Document'
+    url = '/docs/'
+    weight = 30
+ [[menu.main]]
+    name = 'Tags'
+    url = '/tags/'
+    weight = 40
+ [[menu.main]]
+    name = 'Archieves'
+    url = '/archives'
+    weight = 50	
