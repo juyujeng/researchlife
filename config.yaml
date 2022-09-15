@@ -7,10 +7,13 @@ params:
   # home info mode
   homeInfoParams:
     Title: 歡迎來到我的網站
-    Content: 分享我的研究相關心得與經驗
+    Content: >
+      分享我的研究相關心得與經驗
+
+      - 如果有興趣想要追求身心的平衡
+
+      - 可以參考 [臺灣身心中軸覺察發展中心](https://bmaa.tw) 
     
-  
-  toc: true
   mathjax: true # Enable MathJax
   defaultTheme: auto
   ShowShareButtons: true
@@ -19,22 +22,31 @@ params:
 menu:
   main:
     - identifier: 'About'
-      name: 'About'
+      name: 'About Me'
       url: '/about'
-      weight: 10
+      weight: 1
     - identifier: 'Blog'
       name: 'Blog'
       url: '/blog/'
-      weight: 20
+      weight: 2
     - identifier: 'Document'
       name: 'Document'
       url: '/docs/'
-      weight: 30
+      weight: 3
     - identifier: 'Tags'
       name: 'Tags'
       url: '/tags/'
-      weight: 40
+      weight: 4
     - identifier: 'Archives'
       name: 'Archives'
       url: '/archives/'
-      weight: 50
+      weight: 5
+    - identifier: 'Search'
+      name: 'Search'
+      url: '/search/'
+      weight: 6
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary for search
