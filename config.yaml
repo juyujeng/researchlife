@@ -18,6 +18,8 @@ params:
   defaultTheme: auto
   ShowShareButtons: true
   ShowPostNavLinks: true
+  # open comments board
+  comments: true 
 
 menu:
   main:
