@@ -29,4 +29,4 @@ date updated: 2022-08-31 10:34
 另一個使用上的差異是在安裝上，`GLMMadaptive`安裝比較沒有什麼問題。但是`glmmTMB`因為還需要`TMB`，有時候在更新套件時會有版本不一致的情況，有點小困擾。
 
 [^1]: 也許`emmeans::qdgr()`可以，但需要試試看
-[^2]: 不過`glmmTMB`的作者在他的[網頁](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#should-i-treat-factor-xxx-as-fixed-or-random)上提到，Gauss-Hermite quadrature比Laplace approximation還要準確，但是估計速度比較慢（但在我的資料感覺不出來），而且random effect的數量上限制比較多。
+[^2]: 不過`glmmTMB`的作者在他的[網頁](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#estimation)上提到，Gauss-Hermite quadrature比Laplace approximation還要準確，但是估計速度比較慢（但在我的資料感覺不出來），而且random effect的數量上限制比較多。

@@ -10,13 +10,14 @@ params:
     Content: >
       分享我的研究相關心得與經驗
 
-      - 如果有興趣想要追求身心的平衡
-
+      - 如果有興趣想要追求身心的平衡 
+      
       - 可以參考 [臺灣身心中軸覺察發展中心](https://bmaa.tw) 
     
   mathjax: true # Enable MathJax
+  enableEmoji: true 
   defaultTheme: auto
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   # open comments board
   comments: true 
@@ -34,6 +35,7 @@ menu:
     - identifier: 'Document'
       name: 'Document'
       url: '/docs/'
+      description: 'where to write down some articles'
       weight: 3
     - identifier: 'Tags'
       name: 'Tags'
@@ -47,6 +49,8 @@ menu:
       name: 'Search'
       url: '/search/'
       weight: 6
+
+
 outputs:
   home:
     - HTML
