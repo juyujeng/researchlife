@@ -6,7 +6,6 @@ tags:
   - R/packages
 category: null
 date: 2022-08-31
-date updated: 2022-08-31 10:34
 ---
 
 # glmmTMB vs. GLMMadaptive

@@ -6,7 +6,7 @@ tags:
     - count 
     - statistics
 category: blog
-date: 2022-01-04 14:55
+date: 2022-01-04
 ---
 
 # zero-inflated vs. hurdle model

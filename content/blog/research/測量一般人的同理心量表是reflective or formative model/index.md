@@ -61,25 +61,3 @@ table model as 模型, target as 目標對象, 測量方式
 from #empathy & #measurement & #inventory & -#blog
 where forclinical != true
 ```
-
-| File17                                                                                                                                                                                               | 模型                   | 目標對象            | 測量方式 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---- |
-| [interpersonal reactivity inventory](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/interpersonal%20reactivity%20inventory.md)                                                   | reflective           | 一般人             | 自評   |
-| [empathy scale for teachers (EST)](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/empathy%20scale%20for%20teachers%20(EST).md)                                                   | reflective           | teacher         | 自評   |
-| [The cognitive, affective and somatic empathy scales](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/The%20cognitive,%20affective%20and%20somatic%20empathy%20scales.md)         | reflective           | 一般人             | \-   |
-| [Hogan's empathy scale](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Hogan's%20empathy%20scale.md)                                                                             | reflective           | 一般人             | 自評   |
-| [Other Dyadic Perspective-Taking scale](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Other%20Dyadic%20Perspective-Taking%20scale.md)                                           | 無題目可判斷               | 一般人             | 自評他人 |
-| [Balanced Emotional Empathy Scale (BEES)](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Balanced%20Emotional%20Empathy%20Scale%20(BEES).md)                                     | reflective           | 一般人             | 自評   |
-| [Basic Empathy Scale (BES)](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Basic%20Empathy%20Scale%20(BES).md)                                                                   | reflective           | *   青少年
-*   一般人 | 自評   |
-| [Griffith Empathy Measure](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Griffith%20Empathy%20Measure.md)                                                                       | reflective/formative | 兒童              | 自評他人 |
-| [Feeling and Thinking Scale](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Feeling%20and%20Thinking%20Scale.md)                                                                 | reflective           | 兒童              | 自評   |
-| [Multidimensional Emotional Empathy Scale](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Multidimensional%20Emotional%20Empathy%20Scale.md)                                     | reflective           | *   一般人
-*   青少年 | 自評   |
-| [questionnaire measure of emotional empathy (QMEE)](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/questionnaire%20measure%20of%20emotional%20empathy%20(QMEE).md)               | reflective           | 一般人             | 自評   |
-| [Perceived empathy in online community](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Perceived%20empathy%20in%20online%20community.md)                                         | formative            | 一般人             | 自評他人 |
-| [Questionnaire of Cognitive and Affective Empathy (QCAE)](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/Questionnaire%20of%20Cognitive%20and%20Affective%20Empathy%20(QCAE).md) | reflective           | 一般人             | 自評   |
-| [short form Empathy Quotient](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/short%20form%20Empathy%20Quotient.md)                                                               | reflective           | 一般人             | 自評   |
-| [青少年復原力量表](app://obsidian.md/tasks%20and%20measurements/empathy%20measurement/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%BE%A9%E5%8E%9F%E5%8A%9B%E9%87%8F%E8%A1%A8.md)                                           | reflective           | 青少年             | 自評   |
-| [Toronto Empathy Questionnaire](app://obsidian.md/tasks%20and%20measurements/Toronto%20Empathy%20Questionnaire.md)                                                                                   | *   reflective       | 一般人             | 自評   |
-| [Empathy Quotient](app://obsidian.md/tasks%20and%20measurements/Empathy%20Quotient.md)                                                                                                               | reflective           | *   一般人         | 自評   |

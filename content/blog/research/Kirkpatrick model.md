@@ -4,8 +4,8 @@ author: Ju
 tags: 
     - blog
     - intervention
-category:
-creation date: 2022-02-16 13:33
+categories:
+date: 2022-02-16
 ---
 
 Kirkpatrick model常被用來評估介入或是學習課程的成效，主要從四個層面來評估

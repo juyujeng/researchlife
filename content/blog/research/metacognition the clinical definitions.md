@@ -4,6 +4,7 @@ tags:
   - blog 
   - metacognition 
   - ideas
+date: 2021-11-20
 ---
 
 # Metacognition: the clinical definitions

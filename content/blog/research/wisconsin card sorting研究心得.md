@@ -5,7 +5,6 @@ tags:
   - cognitive_flexibility
   - measurement
 date: 2021-11-15
-date update: 2022-09-12 15:48
 ---
 
 # wisconsin card sorting研究心得
