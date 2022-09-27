@@ -3,6 +3,8 @@ languageCode: 'zh-tw'
 title: "Ju' Research and Life"
 theme: 'PaperMod'
 
+googleAnalytics: G-8XNMY2VF63
+
 params:
   # home info mode
   homeInfoParams:
@@ -20,8 +22,8 @@ params:
   ShowShareButtons: false
   ShowPostNavLinks: true
   # open comments board
-  comments: false 
-  googleAnalytics: G-8XNMY2VF63
+  comments: false
+  env: production # to enable google analytics 
 
 menu:
   main:
