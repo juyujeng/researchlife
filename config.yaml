@@ -20,7 +20,8 @@ params:
   ShowShareButtons: false
   ShowPostNavLinks: true
   # open comments board
-  comments: true 
+  comments: false 
+  googleAnalytics: G-8XNMY2VF63
 
 menu:
   main:
