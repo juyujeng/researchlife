@@ -15,7 +15,9 @@ params:
       - 如果有興趣想要追求身心的平衡 
       
       - 可以參考 [臺灣身心中軸覺察發展中心](https://bmaa.tw) 
-    
+  mainSections: # this is importtant, or only blog folder is taken as main section. In that case, posts in docs folder will not show in homepage and archives
+    - blog
+    - docs
   mathjax: true # Enable MathJax
   enableEmoji: true 
   defaultTheme: auto
