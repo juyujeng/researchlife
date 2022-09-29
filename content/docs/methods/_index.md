@@ -1,5 +1,5 @@
 ---
-title: '📈 statistics'
+title: '🧰 methods'
 hidemeta: true 
 ---
 

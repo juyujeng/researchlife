@@ -2,8 +2,9 @@
 title: Kirkpatrick model
 author: Ju
 tags: 
-    - blog
+    - docs
     - intervention
+    - method
 categories:
 date: 2022-02-16
 ---

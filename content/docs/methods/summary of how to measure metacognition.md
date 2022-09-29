@@ -4,8 +4,12 @@ tags:
   - ideas 
   - metacognition 
   - measurement 
-  - blog 
+  - docs
+  - method 
 date: 2021-11-23
+ShowToc: true
+TocOpen: true
+mathjax: false
 ---
 # 如何測量後設認知（metacognition）
 
