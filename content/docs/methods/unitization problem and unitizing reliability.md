@@ -8,7 +8,7 @@ tags:
   - agreement
   - method
 categories: docs
-date: 2022-09-29T00:00:00.000Z
+date: 2022-09-29
 ShowToc: true
 TocOpen: true
 mathjax: true
