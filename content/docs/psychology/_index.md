@@ -1,4 +1,4 @@
 ---
 title: '❤️ psychology'
-hidemeta: true 
+description: documents of psychological researches
 ---

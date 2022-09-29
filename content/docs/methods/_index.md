@@ -1,6 +1,6 @@
 ---
 title: '🧰 methods'
-hidemeta: true 
+description: documents of research methods
 ---
 
 
