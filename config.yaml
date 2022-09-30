@@ -21,7 +21,6 @@ params:
   mathjax: true # Enable MathJax
   enableEmoji: true 
   defaultTheme: auto
-  ShowShareButtons: false
   ShowPostNavLinks: true
   # open comments board
   comments: false

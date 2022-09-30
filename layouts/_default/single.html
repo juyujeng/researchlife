@@ -56,8 +56,8 @@
     {{- end }}
   </footer>
 
-  /*here is for comments board*/
-  {{- if (.Param "comments") }}
+ {{/*here is for comments board*/}}
+  {{- if (.Param "comments") }}  
   {{- partial "comments.html" . }}
   {{- end }}
 </article>
