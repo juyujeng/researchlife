@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>statistic on Ju' Research and Life</title><link>https://juyujeng.github.io/researchlife/tags/statistic/</link><description>Recent content in statistic on Ju' Research and Life</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juyujeng.github.io/researchlife/tags/statistic/index.xml" rel="self" type="application/rss+xml"/><item><title>compare two binary diagnostic tests</title><link>https://juyujeng.github.io/researchlife/docs/methods/compare-two-binary-diagnostic-tests/</link><pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate><guid>https://juyujeng.github.io/researchlife/docs/methods/compare-two-binary-diagnostic-tests/</guid><description>如何比較兩個診斷方式的準確性？ 幾個可以比較的指標 sensitivity (Se) = 病人有病且可以被診斷出有病的機率
+specificity (Sp) = 病人沒病且可以被診斷沒病的機率
+positive predicted value (PPV) = 被診斷為有病而實際上真的有病的機率
+negative predicted value (NPV) = 被診斷為沒病而實際上真的沒病的機率
+可以使用的方法 統計方法 比較的指標 McNemar test sensitivity、specificity GEE PPV、NPV weighted generalized score PPV、NPV 如何計算 GEE 的計算很難，而且在使用上的結果比較不直觀。weighted generalized score是近期比較多人使用的。而這個指標在計算上也是在不同的文獻當中有許多的改進。幸好最近有人將這些方法寫成了R的套件，有和DTComPair和compbdt兩個。
+不過最近（2022/10/18）我發現DTComPair在新版的R已經不支援了，可能要找舊版的R去安裝，或是希望作者可以有更新。目前可能暫時就剩下compbdt可以使用。
+compbdt的使用 compbdt其實不是一個完整的套件，只有一個函式，可以在原始論文的補充資料當中獲得。
+使用時需要輸入兩種診斷工具的診斷結果（見下表）
+compbdt(s11 = s11, s10 = s10, s01 = s01, s00 = s00, r11 = r11, r10 = r10, r01 = r01, r00 = r00, alpha = .05) 兩個診斷工具的診斷結果代號表（取自Roldán-Nofuentes, 2020） 這個函式的寫法會直接把分析的結果輸出到畫面上，並不會回傳任何資料。如果想要讓該函式回傳需要的統計值的話，需要自行修改作者提供的程式碼</description></item></channel></rss>
