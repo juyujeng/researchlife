@@ -12,9 +12,9 @@ ShowToc: true
 TocOpen: true
 mathjax: true
 cover:
-  image: "../images/compbdt.svg"
+  image: "https://juyujeng.github.io/researchlife/docs/methods/images/compbdt.svg"
   alt: "diagnost result table"
-  relative: true
+
 ---
 
 # 如何比較兩個診斷方式的準確性？
