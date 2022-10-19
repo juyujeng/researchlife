@@ -13,6 +13,7 @@ TocOpen: true
 mathjax: true
 cover:
   image: "../images/compbdt.svg"
+  alt: "diagnost result table"
 ---
 
 # 如何比較兩個診斷方式的準確性？
