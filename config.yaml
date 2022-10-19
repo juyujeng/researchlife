@@ -1,11 +1,11 @@
 baseURL: 'https://juyujeng.github.io/researchlife/'
 languageCode: 'zh-tw'
-title: "Ju' Research and Life"
-theme: 'PaperMod'
-
+title: Ju' Research and Life
+theme: PaperMod
+enableGitInfo: true # automatically get information from github, like last updated date
 googleAnalytics: G-8XNMY2VF63
-
-params:
+staticDir: static
+Params:
   # home info mode
   homeInfoParams:
     Title: 歡迎來到我的網站
@@ -25,6 +25,15 @@ params:
   # open comments board
   comments: false
   env: production # to enable google analytics 
+  assets:
+      favicon: "https://juyujeng.github.io/researchlife/favicon.ico"
+      favicon16x16:  "https://juyujeng.github.io/researchlife/favicon-16x16.png"
+      favicon32x32:  "https://juyujeng.github.io/researchlife/favicon-32x32.png"
+      apple_touch_icon:  "https://juyujeng.github.io/researchlife/apple-touch-icon.png"
+  label:
+    text: Ju' Research & Life 
+    icon: "https://juyujeng.github.io/researchlife/apple-touch-icon.png"
+
 
 menu:
   main:
