@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+author: Ju
 date: {{ .Date }}
 summary:
 draft: false
