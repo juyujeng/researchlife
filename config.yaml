@@ -23,7 +23,7 @@ Params:
   defaultTheme: auto
   ShowPostNavLinks: true
   # open comments board
-  comments: false
+  comments: true
   env: production # to enable google analytics 
   assets:
       favicon: "https://juyujeng.github.io/researchlife/favicon.ico"
