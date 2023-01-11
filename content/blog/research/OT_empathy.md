@@ -3,6 +3,10 @@ title: "OT_empathy"
 author: Ju
 date: 2023-01-10T10:57:46+08:00
 summary:
+tags: 
+  - blog
+  - empathy/course
+categories: blog
 draft: false
 ShowToc: true
 TocOpen: true
