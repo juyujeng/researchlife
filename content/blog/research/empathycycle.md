@@ -13,6 +13,7 @@ TocOpen: true
 mathjax: true
 cover:
   image: "https://juyujeng.github.io/researchlife/images/empathy_cycle.png"
+  hiddenInSingle: false
 ---
 
 Barrett-Lennard的老文章，討論同理的歷程。
