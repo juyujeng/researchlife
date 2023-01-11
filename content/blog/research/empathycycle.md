@@ -13,10 +13,11 @@ TocOpen: true
 mathjax: true
 cover:
   image: "https://juyujeng.github.io/researchlife/images/empathy_cycle.png"
-  hiddenInSingle: false
 ---
 
 Barrett-Lennard的老文章，討論同理的歷程。
+
+![同理的5步驟]("https://juyujeng.github.io/researchlife/images/empathy_cycle.png")
 
 在這個文章當中，同理的歷程包含5步驟
 1. 同理者（Em）主動注意到被同理者（Ex）自我表露的訊息（經驗、期待、希望、或是相信同理者能有所回應）
