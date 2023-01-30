@@ -8,7 +8,7 @@ staticDir: static
 Params:
   # home info mode
   homeInfoParams:
-    Title: 歡迎來到我的網站
+    Title: Ju' Research and Life
     Content: >
       分享我的研究相關心得與經驗
 
