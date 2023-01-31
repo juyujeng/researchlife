@@ -19,7 +19,7 @@ ShowToc: true
 TocOpen: true
 mathjax: false
 cover:
-  image: "https://juyujeng.github.io/researchlife/blog/research/images/empathy_steps_20230119.excalidraw.svg"\
+  image: "https://juyujeng.github.io/researchlife/blog/research/images/empathy_steps_20230119.excalidraw.svg"
 lastmod: 2023-01-31
 ---
 
