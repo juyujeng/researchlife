@@ -8,6 +8,10 @@ body{
     font-family: 'Noto Sans TC', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'Noto Serif TC', serif; 
+}
+
 :root {
     --nav-width: 1380px;
     --article-width: 650px;
