@@ -5,6 +5,7 @@ theme: PaperMod
 enableGitInfo: true # automatically get information from github, like last updated date
 googleAnalytics: G-8XNMY2VF63
 staticDir: static
+enableEmoji: true 
 Params:
   # home info mode
   homeInfoParams:
@@ -19,7 +20,6 @@ Params:
     - blog
     - docs
   mathjax: true # Enable MathJax
-  enableEmoji: true 
   defaultTheme: auto
   ShowPostNavLinks: true
   # open comments board
