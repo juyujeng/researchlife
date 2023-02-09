@@ -66,7 +66,7 @@ lastmod: '2023-02-09'
 
 同理的步驟如下：
 
-![](../images/empathy steps 20230208.excalidraw.svg)
+![](../images/empathysteps_20230208.svg)
 
 ## 同理情境發生
 
